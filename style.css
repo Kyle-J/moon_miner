@@ -1,0 +1,60 @@
+/*Stylesheet for prototype Moon Miner clicker game*/
+
+body{
+    background-color:black;
+    font-family: Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+header{
+    #
+}
+
+#moon-click{
+    #
+}
+
+#buy-menu{
+    # 
+}
+
+#units-menu{
+   #
+}
+
+h1{
+    color:grey;
+}
+
+h2{
+    color:grey;
+}
+
+h4{
+    color:grey;
+}
+
+p {
+    color:grey;
+    font-size:80%;
+}
+
+#ore-label{
+    color:grey;
+    font-size:80%;
+}
+
+#ore-value{
+    color:grey;
+    font-size:80%;
+}
+
+#credit-counter{
+    color:grey;
+    font-size:80%;
+}
+
+#credit-value{
+    color:grey;
+    font-size:80%
+}
